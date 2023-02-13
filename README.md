@@ -16,7 +16,7 @@ https://blake1011001.github.io/Password-Generator/
 
 ## Installation
 Deployed through github pages
-
+![blake1011001 github io_Password-Generator_](https://user-images.githubusercontent.com/121069049/218594603-f54cba97-166b-4fce-aaa5-2e560a70535e.png)
 
 ## Usage 
 Can be used to generate a random password for the user 
