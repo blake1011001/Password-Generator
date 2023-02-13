@@ -11,8 +11,8 @@ Using javaScript I had to create a random password generator. The prompt gives y
 * Will display your password on the page after you choose the desired prompts.
 
 ### Links
-https://github.com/blake1011001/Password-Generator
-https://blake1011001.github.io/Password-Generator/
+* https://github.com/blake1011001/Password-Generator
+* https://blake1011001.github.io/Password-Generator/
 
 ## Installation
 Deployed through github pages
